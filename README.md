@@ -1,6 +1,7 @@
 # DankBank-myResponderEnhanced_SCDFXIBM
 ## Our Team
 Team Name: Dank Bank
+
 Team Members: Ong Chuan Kai, Davis Zhang, Lim An Guan, Eu Zheng Xi, Sun Jiachen
 
 ## Short Description of Solution
