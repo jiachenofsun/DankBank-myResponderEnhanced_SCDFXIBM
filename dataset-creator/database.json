@@ -1,0 +1,161 @@
+{
+    "Cardiac Arrest": {
+        "Symptoms": [
+            "Chest pain",
+            "Breathing difficulty",
+            "Unconsciousness",
+            "Absence of pulse"
+        ],
+        "Equipment": [
+            "AED",
+            "Aspirin"
+        ],
+        "Treatment": [
+            "Call an ambulance immediately",
+            "If patient is conscious, get them to consume 300mg tablet of Aspirin",
+            "If patient is unconscious, monitor their breathing",
+            "If patient has stopped breathing, perform CPR",
+            "If patient has no pulse, use AED"
+        ]
+    },
+    "Stroke": {
+        "Symptoms": [
+            "Lopsided facial expression",
+            "Loss of arm mobility",
+            "Slurred speech",
+            "Unconsciousness"
+        ],
+        "Equipment": [
+            "No Equipment Needed"
+        ],
+        "Treatment": [
+            "Call an ambulance immediately",
+            "If patient is unconscious, monitor patient's breathing",
+            "If patient has stopped breathing, perform CPR"
+        ]
+    },
+    "Heatstroke": {
+        "Symptoms": [
+            "High body temperature",
+            "Excessive sweating",
+            "Clammy skin",
+            "Dizziness/light-headed"
+        ],
+        "Equipment": [
+            "Ice Pack"
+        ],
+        "Treatment": [
+            "Move patient to cool place",
+            "Apply ice packs to patient's neck and armpits",
+            "Let patient lie down with legs slightly elevated",
+            "Get patient to drink plenty of fluids"
+        ]
+    },
+    "Burn/Scalds": {
+        "Symptoms": [
+            "Charred/blistered skin",
+            "Red/peeling skin"
+        ],
+        "Equipment": [
+            "First Aid Kit"
+        ],
+        "Treatment": [
+            "Cool the burn/scald area under running water for at least 20 minutes",
+            "Remove any clothing/jewellery from the burn/scald area if it is not attached to patient's skin",
+            "Loosely cover the burn/scald area with clean dressing",
+            "If burn/scald area is large/severe, call an ambulance"
+        ]
+    },
+    "Concussion": {
+        "Symptoms": [
+            "Unconsciousness",
+            "Headache",
+            "Bruising/swelling on head",
+            "Disorientation"
+        ],
+        "Equipment": [
+            "Ice Pack"
+        ],
+        "Treatment": [
+            "If patient is unconscious, call an ambulance, monitor patient's breathing",
+            "If patient has stopped breathing, perform CPR",
+            "Apply ice pack to any bruise/swelling on patient's head"
+        ]
+    },
+    "Sprains": {
+        "Symptoms": [
+            "Swelling of joint",
+            "Bruising of joint"
+        ],
+        "Equipment": [
+            "Ice Pack"
+        ],
+        "Treatment": [
+            "Apply ice pack around sprained joint",
+            "If possible, keep sprained joint elevated"
+        ]
+    },
+    "Bone Fracture/Dislocation": {
+        "Symptoms": [
+            "Bruising of joint",
+            "Swelling of joint",
+            "Visible deformity of bone/joint"
+        ],
+        "Equipment": [
+            "Ice Pack"
+        ],
+        "Treatment": [
+            "Call an ambulance",
+            "Apply ice pack around injured area",
+            "If possible, keep injured area elevated to reduce swelling",
+            "DO NOT attempt to pop dislocated joint back into place"
+        ]
+    },
+    "External Bleeding": {
+        "Symptoms": [
+            "Bleeding from an open wound"
+        ],
+        "Equipment": [
+            "First Aid Kit"
+        ],
+        "Treatment": [
+            "If wound is deep/large, call an ambulance",
+            "If foreign object is present in wound, DO NOT attempt to remove it",
+            "Clean wound with water",
+            "Cover wound with clean gauze and secure gauze with bandage",
+            "Apply firm, direct pressure on wound to slow bleeding"
+        ]
+    },
+    "Hyperventilation": {
+        "Symptoms": [
+            "Dizziness/light-headed",
+            "Breathing difficulty",
+            "Palpitation/rapid pulse",
+            "Disorientation"
+        ],
+        "Equipment": [
+            "Paper Bag"
+        ],
+        "Treatment": [
+            "Calm the patient down",
+            "Instruct patient to take 6 breaths into paper bag, 6 breaths without paper bag, repeat",
+            "If symptoms do not improve, call an ambulance"
+        ]
+    },
+    "Epileptic Seizures": {
+        "Symptoms": [
+            "Unconsciousness",
+            "Breathing difficulty",
+            "Jerking of limbs",
+            "Disorientation"
+        ],
+        "Equipment": [
+            "No Equipment Needed"
+        ],
+        "Treatment": [
+            "Lay something soft beneath patient's head",
+            "Remove any sharp objects from patient's surroundings",
+            "If seizure lasts longer than 5 minutes, call an ambulance"
+        ]
+    }
+}
