@@ -25,7 +25,7 @@ This set of instructions will cover how to execute the python file we have creat
 ### How to run a demo
   1. Open the terminal on your operating system
   2. Clone our repository by entering the following command: git clone <inserturl>
-  3. Navigate to the working directory by entering the following command: cd <...>
+  3. Navigate to the working directory by entering the following command: cd stt-and-ai-demo
   4. Run the following command: pip install ibm_watson
   5. Run the following command: python main.py
   
