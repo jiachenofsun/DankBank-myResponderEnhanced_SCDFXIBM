@@ -9,7 +9,7 @@ Team Members: Ong Chuan Kai, Davis Zhang, Lim An Guan, Eu Zheng Xi, Sun Jiachen
 <embed pitch video here>
 
 ## Architecture
-<embed jpg of architecture here>
+![Architecture Diagram](https://github.com/jiachenofsun/DankBank-myResponderEnhanced_SCDFXIBM/blob/main/architecture_diagram.jpg?raw=true)
 
 ## Detailed Description of Solution
 <insert link to google doc here>
