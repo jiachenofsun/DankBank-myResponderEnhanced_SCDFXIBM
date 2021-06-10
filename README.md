@@ -6,7 +6,9 @@ Team Members: Ong Chuan Kai, Davis Zhang, Lim An Guan, Eu Zheng Xi, Sun Jiachen
 ## Short Description of Solution
 
 ## Pitch Video
-<embed pitch video here>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vGj9X7jJNYE
+" target="_blank"><img src="http://img.youtube.com/vi/vGj9X7jJNYE/0.jpg" 
+alt="DankBankPitchVideo" width="240" height="180" border="10" /></a>
 
 ## Architecture
 ![Architecture Diagram](https://github.com/jiachenofsun/DankBank-myResponderEnhanced_SCDFXIBM/blob/main/architecture_diagram.jpg?raw=true)
