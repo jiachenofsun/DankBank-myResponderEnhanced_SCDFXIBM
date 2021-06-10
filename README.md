@@ -38,9 +38,9 @@ The following set of instructions covers how to execute the python file we have 
   2. The script will open the .mp3 file and translate it to text using Watson Speech to Text, and store the symptoms in a list variable.
   3. The symptoms are then inserted into the AUTOAI and a prediction of the injury is displayed in .json format on the console.
 #### Required software
-  Python
-  Javascript
-  HTML
+  Python  
+  Javascript  
+  HTML  
   CSS
 #### How to run a demo
   1. Open the terminal on your operating system
