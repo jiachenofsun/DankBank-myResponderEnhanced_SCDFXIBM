@@ -30,6 +30,23 @@ This set of instructions will cover how to execute the python file we have creat
   3. Navigate to the working directory by entering the following commands: `cd DankBank-myResponderEnhanced_SCDFXIBM` followed by `cd stt-and-ai-demo`
   4. Install the required modules by entering the following command: `pip install ibm_watson`
   5. Run the script by entering the following command: `python main.py`
+
+
+## How to use our chatbot 
+The following set of instructions serves to cover the steps to effectively utilise the functions of the chatbot. 
+
+1. Upon clicking onto the chatbot, users will be prompted to select one of the services offered by the chatbot. 
+   To select diagnosis, users will need to enter “diagnosis”
+   To select medical resources, users will need to enter “medical resources”
+   To select both diagnosis and medical resources, users will need to enter “both”
+   To make another selection, users will need to enter “restart”
+
+2. Should users request for a diagnosis, they will be prompted to submit the symptoms they observed. A maximum of 4 symptoms can be submitted to the chatbot. If the user is unable to provide 4 symptoms, he / she can simply reply “no” to the request for more symptoms. Subsequently, a diagnosis will be made based on the symptoms submitted. To request for another diagnosis / medical resource, users need to input “restart”
+
+3. Should users request for medical resources, they will be prompted to input the kind of resources they require, eg:bandage. Users will then be presented with a map showing the different locations they are able to get these resources. To request for another diagnosis / medical resource, users need to input “restart”
+
+4. Should users request for both diagnosis and medical resources, they will be directed to make a diagnosis first. Thereafter, based on the diagnosis made, users will receive a map showing the different locations to get the resources to address the diagnosis that has been made. Similarly, to request for another diagnosis / medical resource, users need to input “restart”. 
+
   
 ## Link to mockup of UI of our proposed solution
 [Webapp UI](https://myresponderenhanced.mybluemix.net/)
