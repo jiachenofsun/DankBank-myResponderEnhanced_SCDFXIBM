@@ -69,7 +69,7 @@ To make another selection, users will need to enter “restart”
 ## Our proposed solution's UI Mockup
 [Webapp UI](https://myresponderenhanced.mybluemix.net/)
 
-[Mobile application UI](https://snack.expo.io/@aderty/myresponder-enhanced)
+[Mobile application UI](https://snack.expo.io/@aderty/myresponder-enhanced) (Disclaimer: Does not work properly if run on the web. Works better if run on the Expo Go application on mobile)
 
 ## Tech Stack
 1. IBM Cloud Pak for Data
