@@ -27,7 +27,7 @@ alt="DankBankPitchVideo" width="240" height="180" border="10" /></a>
 ## Architecture
 ![Architecture Diagram](https://github.com/jiachenofsun/DankBank-myResponderEnhanced_SCDFXIBM/blob/main/architecture_diagram.jpg?raw=true)
 
-## Detailed Description of Solution
+## Detailed Solution
 [Read More](https://docs.google.com/document/d/1A05Hdzwarb6KRHziTSzoAXsjwmgOxC-gNJo1I-aXs6c/edit?usp=sharing)
 
 ## Getting Started
@@ -62,7 +62,7 @@ To make another selection, users will need to enter “restart”
 4. Should users request for both diagnosis and medical resources, they will be directed to make a diagnosis first. Thereafter, based on the diagnosis made, users will receive a map showing the different locations to get the resources to address the diagnosis that has been made. Similarly, to request for another diagnosis / medical resource, users need to input “restart”. 
 
   
-## Link to mockup of UI of our proposed solution
+## Our proposed solution's UI Mockup
 [Webapp UI](https://myresponderenhanced.mybluemix.net/)
 
 [Mobile application UI](https://snack.expo.io/@aderty/myresponder-enhanced)
