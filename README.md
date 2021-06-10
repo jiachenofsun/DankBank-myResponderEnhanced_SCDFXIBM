@@ -30,7 +30,8 @@ This set of instructions will cover how to execute the python file we have creat
   5. Run the script by entering the following command: `python main.py`
   
 ## Link to mockup of UI of our proposed solution
-<insert link to website here>
+[Webapp UI](https://myresponderenhanced.mybluemix.net/)
+[Mobile application UI](https://snack.expo.io/@aderty/myresponder-enhanced)
 
 ## Tech Stack
 1. IBM Cloud Pak for Data
