@@ -12,7 +12,7 @@ Team Members: Ong Chuan Kai, Davis Zhang, Lim An Guan, Eu Zheng Xi, Sun Jiachen
 ![Architecture Diagram](https://github.com/jiachenofsun/DankBank-myResponderEnhanced_SCDFXIBM/blob/main/architecture_diagram.jpg?raw=true)
 
 ## Detailed Description of Solution
-<insert link to google doc here>
+[Read More](https://docs.google.com/document/d/1A05Hdzwarb6KRHziTSzoAXsjwmgOxC-gNJo1I-aXs6c/edit?usp=sharing)
 
 ## Getting Started
 This set of instructions will cover how to execute the python file we have created, which is meant as a mockup of how Speech-to-Text will integrate with IBM Watson's AutoAI models.
