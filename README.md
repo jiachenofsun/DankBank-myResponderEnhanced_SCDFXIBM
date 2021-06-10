@@ -4,6 +4,20 @@ Team Name: Dank Bank
 Team Members: Ong Chuan Kai, Davis Zhang, Lim An Guan, Eu Zheng Xi, Sun Jiachen
 
 ## Short Description of Solution
+### The Problem
+The COVID-19 pandemic has turned our lives upside down. It has ushered us into a new era of remote learning and working from home. With more people at home, more medical emergencies will occur at home as well. Our team thus believes that community responders will play an even more crucial role when it comes to saving lives. 
+
+### The Solution
+Our solution, myResponderEnhanced, improves the speed and consistency with which community first responders react to a life-threatening situation. MyResponderEnhanced builds on the current mobile application. Our new main feature is an artificial intelligent chatbot, which aids responders to take matters into their own hands and save precious seconds in a life-or-death situation.
+
+### The Story
+John, a community first responder who is not medically trained, sees an elderly man shaking uncontrollably at the void deck. Like most community responders who are not medically trained,   John has no idea what the elderly man is suffering. All he can do is call 995 and hope that the paramedics will arrive in time and save the man’s life. 
+
+myResponderEnhanced will do all the work for John. John only needs to open the app and inform the chatbot that there is an emergency. It will automatically inform SCDF to dispatch paramedics ASAP. By gathering information about the elderly man from John (e.g. age group, approximate height & weight and visible symptoms), the chatbot can accurately determine the medical emergency. If information is insufficient, and the machine learning model behind cannot narrow down, the chatbot can prompt John to check if other common symptoms are shown. 
+
+Hence, John can focus on helping the elderly man to the best of his ability. The chatbot will have treatment options available and guide him step-by-step. To save time, John can converse with the chatbot and does not need to type using IBM’s Text-to-Speech. Furthermore, MyResponderEnhanced will notify nearby community responders to deliver crucial medical supplies, like AED, bandages or ice packs, to John. If said supplies are in John’s immediate vicinity, the app will direct John to the exact location. 
+
+Behind the scenes, the chatbot will be relaying important information to the SCDF paramedics, allowing them to better prepare when they arrive at the scene.
 
 ## Pitch Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vGj9X7jJNYE
@@ -50,6 +64,7 @@ To make another selection, users will need to enter “restart”
   
 ## Link to mockup of UI of our proposed solution
 [Webapp UI](https://myresponderenhanced.mybluemix.net/)
+
 [Mobile application UI](https://snack.expo.io/@aderty/myresponder-enhanced)
 
 ## Tech Stack
