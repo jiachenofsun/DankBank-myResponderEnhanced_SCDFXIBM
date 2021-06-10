@@ -36,10 +36,10 @@ This set of instructions will cover how to execute the python file we have creat
 The following set of instructions serves to cover the steps to effectively utilise the functions of the chatbot. 
 
 1. Upon clicking onto the chatbot, users will be prompted to select one of the services offered by the chatbot. 
-   To select diagnosis, users will need to enter “diagnosis”
-   To select medical resources, users will need to enter “medical resources”
-   To select both diagnosis and medical resources, users will need to enter “both”
-   To make another selection, users will need to enter “restart”
+To select diagnosis, users will need to enter “diagnosis”
+To select medical resources, users will need to enter “medical resources”
+To select both diagnosis and medical resources, users will need to enter “both”
+To make another selection, users will need to enter “restart”
 
 2. Should users request for a diagnosis, they will be prompted to submit the symptoms they observed. A maximum of 4 symptoms can be submitted to the chatbot. If the user is unable to provide 4 symptoms, he / she can simply reply “no” to the request for more symptoms. Subsequently, a diagnosis will be made based on the symptoms submitted. To request for another diagnosis / medical resource, users need to input “restart”
 
