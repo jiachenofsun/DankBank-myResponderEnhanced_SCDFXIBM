@@ -39,6 +39,9 @@ The following set of instructions covers how to execute the python file we have 
   3. The symptoms are then inserted into the AUTOAI and a prediction of the injury is displayed in .json format on the console.
 #### Required software
   Python
+  Javascript
+  HTML
+  CSS
 #### How to run a demo
   1. Open the terminal on your operating system
   2. Clone our repository by entering the following command: `git clone https://github.com/jiachenofsun/DankBank-myResponderEnhanced_SCDFXIBM.git`
